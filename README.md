@@ -85,14 +85,13 @@ pizza_types → pizzas → order_details → orders
 
 ---
 
-## 📈 Example Visual Outputs
+## 📈 Visual Outputs
 
-*(Replace image paths after exporting charts from your notebook)*
 
 ### Sales by Hour
 
 ```
-![Sales by Hour](images/sales_by_hour.png)
+"C:\Users\Johnson Samuel D\Desktop\TechCrush\Pizza Sales by Hour.png"
 ```
 
 ### Sales by Weekday
