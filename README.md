@@ -115,7 +115,7 @@ Monthly Pizza Sales Trend.png
 ```
 pizza-sales-analysis/
 │
-├── 3. Samuel_Johnson.ipynb
+├── 3. Samuel_Johnson_pizza_analysis.ipynb
 ├── dataset/
 │   ├── pizzas.csv
 │   ├── pizza_types.csv
@@ -123,9 +123,10 @@ pizza-sales-analysis/
 │   └── orders.csv
 │
 ├── images/
-│   ├── sales_by_hour.png
-│   ├── sales_by_weekday.png
-│   └── monthly_trend.png
+│   ├── Pizza Sales by Hour.png
+│   ├── Total pizza sales revenue by day of the week.png
+|   ├── Monthly Pizza Sales Trend.png
+│   └── Top 5 Bestselling pizzas by quantity.png
 │
 └── README.md
 ```
@@ -160,11 +161,10 @@ Execute all cells from top to bottom.
 
 ## 📊 Key Analytical Insights
 
-* Identification of peak customer ordering hours
-* Weekly and monthly revenue patterns
-* High-performing vs low-performing menu items
-* Customer demand trends
-* Operational workload forecasting
+* Peak Sales Period: The busiest time for sales occurs during the lunch rush, specifically between 12 PM and 1 PM
+* Peak Revenue Day: Friday is the highest-performing day of the week, with revenue peaking at over 8,000. This suggests a strong "end-of-the-week" demand, likely driven by social gatherings or "pizza night" traditions.
+* Holiday Spike: There is a notable recovery in November, where revenue jumps back up to over $4,250, likely driven by holiday-related gatherings or promotions, before dipping again in December.
+* The Brie Carre Pizza: At roughly $11,500 in revenue, this is the weakest performer on your list. Its high-cost specialty ingredient (Brie) likely further squeezes its profit margin, making it a prime candidate for removal.
 
 ---
 
