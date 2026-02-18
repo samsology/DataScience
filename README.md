@@ -11,10 +11,10 @@
 
 ## 📊 Project Overview
 
-This project performs a comprehensive exploratory and business analysis of a pizza sales dataset using **Python** and **Jupyter Notebook**.
+In this project I performs a comprehensive exploratory and business analysis of a pizza sales dataset using **Python** and **Jupyter Notebook**.
 The objective is to transform raw transactional data into meaningful operational and strategic insights through structured data cleaning, relational joins, and analytical modelling.
 
-The project simulates a real-world retail analytics workflow, focusing on:
+My retail analytics workflow, focusing on:
 
 * Sales performance evaluation
 * Customer ordering behaviour
@@ -27,6 +27,8 @@ The project simulates a real-world retail analytics workflow, focusing on:
 
 * What is the total revenue generated?
 * How many pizzas were sold?
+* How many total orders?
+* How many pizza type do they sell?
 * What are the peak sales hours?
 * Which weekday generates the most sales?
 * What are the top 5 bestselling pizzas?
