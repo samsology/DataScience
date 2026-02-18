@@ -93,7 +93,7 @@ pizza_types → pizzas → order_details → orders
 ### Sales by Hour
 
 ```
-"C:\Users\Johnson Samuel D\Desktop\TechCrush\Pizza Sales by Hour.png"
+Pizza Sales by Hour.png
 ```
 
 ### Sales by Weekday
@@ -105,7 +105,7 @@ pizza_types → pizzas → order_details → orders
 ### Monthly Sales Trend
 
 ```
-![Monthly Sales](images/monthly_trend.png)
+Monthly Pizza Sales Trend.png
 ```
 
 ---
