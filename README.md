@@ -137,7 +137,7 @@ pizza-sales-analysis/
 ### 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/yourusername/pizza-sales-analysis.git
+[github.com/yourusername/pizza-sales-analysis.git](https://github.com/samsology/DataScience/
 ```
 
 ### 2️⃣ Install Dependencies
