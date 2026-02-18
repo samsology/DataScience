@@ -93,7 +93,7 @@ pizza_types → pizzas → order_details → orders
 ### Sales by Hour
 
 ```
-Pizza Sales by Hour.png
+[Pizza Sales by Hour.png](https://github.com/samsology/DataScience/blob/a4fd7a678fadbe6c3cd750eb544e1d55fd3650e5/Monthly%20Pizza%20Sales%20Trend.png)
 ```
 
 ### Sales by Weekday
